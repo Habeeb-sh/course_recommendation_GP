@@ -1,1 +1,7 @@
 /.ipynb_checkpoints
+final_courses.csv
+final_courses_with_predictions.csv
+final_merged_dataset.csv
+*.pkl
+models/cf/test_df.csv
+models/cf/train_df.csv
