@@ -2,6 +2,7 @@
 final_courses.csv
 final_courses_with_predictions.csv
 final_merged_dataset.csv
+dataset_after_merging_before_predictions.csv
 *.pkl
 models/cf/test_df.csv
 models/cf/train_df.csv
